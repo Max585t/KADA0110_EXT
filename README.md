@@ -5,7 +5,7 @@ Kada0110_ext is an extended 65% mechanical keyboard. It started as a remix of [K
 
 | components | quaninty | link |
 |----|----|----|
-| PCB | 1 | () |
+| PCB | 1 | https://github.com/Max585t/KADA0110_EXT/tree/main/Kicad |
 | Case | 1 | () |
 | 80x4x3mm Poron foam gaskets | 12 | [kprepublic.com/products/kprepublic-gasket-strip-gasket-pad-pads-stickers-foam-poron-material-for-mechanical-keyboard-le20-black-thick-round-corner?variant=43459474227363](https://kprepublic.com/products/kprepublic-gasket-strip-gasket-pad-pads-stickers-foam-poron-material-for-mechanical-keyboard-le20-black-thick-round-corner?variant=43459474227363) |
 
