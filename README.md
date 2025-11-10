@@ -1,7 +1,7 @@
 # KADA0110_EXT
 Kada0110_ext is an extended 65% mechanical keyboard. It started as a remix of [Kada 0110](https://www.printables.com/model/891673-kada-0110-a-retro-inspired-65-mechanical-keyboard) by [Emil](https://www.printables.com/@Emil_28197). It has support for stepped left control and split backspace. PCB was designed by me. Case modifications also done by me. 
 
-BOM:
+## BOM
 
 | components | quaninty | link |
 |----|----|----|
